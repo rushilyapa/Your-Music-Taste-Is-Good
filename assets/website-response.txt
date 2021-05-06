@@ -1,0 +1,42 @@
+## uniqueness
+### if music taste is more unique than 99% of people
+Wow. Your music taste is more unique than 99 percent of people!
+You like things that are crazy obscure.
+Congratulations if that's what you're going for!
+
+### if music taste is more unique than 90% of people 
+Wow. Your music taste is more unique than ${} percent of people!
+Have you considered starting a music blog?
+I'm not sure how many people read them anymore but I think you'd be good for it
+
+### if music taste is more unique than 80% of people
+Your music taste is more unique than ${} percent of people!
+Do you work for pitchfork or something? You're cool as hell.
+
+### if music taste is more unique than 70% of people
+Your music taste is more unique than ${} percent of people!
+You get a bit off the beaten path but you still like what's popular.
+You're a wildcard, unswayed by public opinion, go off, follow your dreams.
+
+### else
+Your music taste is more unique than ${} percent of people!
+You're in tune with the public!
+You like what most people like and most people like you.
+
+## top artist
+Your top artist is ${}.
+
+### top artist monthly listeners
+#### if monthly listeners over 1 million
+Of course! A classic!
+
+#### if monthly listeners over 500,000
+Yes! We love them!
+
+#### else 
+I've heard of them but I've never actually heard them.
+I've been meaning to check them out though! Really!
+
+## top genres
+Your most listened genres are ${}!
+I'm going to sound literally crazy but those are all my favourites too!
